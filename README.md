@@ -1,4 +1,4 @@
-# RGIPT_NOC Management Portal
+
 
 A full-stack web application designed to digitize and streamline the No Objection Certificate (NOC) application and approval workflow for Rajiv Gandhi Institute of Petroleum Technology (RGIPT).
 
